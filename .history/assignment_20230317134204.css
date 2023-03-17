@@ -1,0 +1,26 @@
+.header{
+    padding: 5px;
+    background-color: #333;
+	 color: #ccc;
+
+    text-align: center;
+   
+    color: white;
+}
+
+body{
+    margin:0;
+    background-color: #deded8;
+}
+
+.navbar {
+    display: flex;
+    background-color: black
+  }
+
+  .navbar a {
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    text-align: center;
+  }
